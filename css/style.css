@@ -110,19 +110,7 @@ letter-spacing : 0.31px;
 line-height : 1.6;
 margin-top : 64px;
 }
-.icon {
-width : 18px;
-height : 18px;
-border-radius : 50%;
-background : #ffffff2e;
-margin : 0 36%;
-margin-top : 200px;
-border : white solid 2px;
-padding : 41px;
-font-size : 29px;
-color : deepskyblue;
-cursor : pointer;
-}
+.icon {width : 18px;height : 18px;border-radius : 50%;background : #ffffff2e;margin : 0 36%;margin-top : 200px;border : white solid 2px;padding: 42px;padding-top: 30px;font-size : 29px;color : deepskyblue;cursor : pointer;padding-left: 29px;}
 .contact {
 color : white;
 text-align : center;
